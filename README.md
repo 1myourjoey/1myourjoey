@@ -1,4 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=REMEMBER!;I'm+gonna+your+JOEY)](https://git.io/typing-svg)
+name: Labels
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.topics.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_topics: yes
+  plugin_topics_limit: 12
+
 <!--
 **1myourjoey/1myourjoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
