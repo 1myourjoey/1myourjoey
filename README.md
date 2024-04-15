@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=REMEMBER;I'm+gonna+your+JOEY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=REMEMBER!;I'm+gonna+your+JOEY)](https://git.io/typing-svg)
 <!--
 **1myourjoey/1myourjoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
